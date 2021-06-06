@@ -16,11 +16,11 @@
 
 - 📫 Reach me at **abhinav.as1308@gmail.com**
 
-- 👨‍💻 All of my projects are available at [abinator-1308](https://abinator.github.io)
+- 👨‍💻 All of my projects are available at [abinator-1308](https://abinator-1308.github.io/portfolio/)
 
 - ⚡ Fun fact **Charles Darwin invented the office chair by attaching some legs and wheels. Father of evolution!**
 
-I have a bug to document technical stuffs that I do, which can be found at my [blog](https://abinator.github.io/blog)
+I have a bug to document technical stuffs that I do, which can be found at my [blog](https://abinator-1308.github.io/portfolio/blog)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
